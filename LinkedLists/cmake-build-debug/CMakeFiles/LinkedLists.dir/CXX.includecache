@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/juani/Desktop/LinkedLists/List.h
+iostream
+-
+Node.h
+/Users/juani/Desktop/LinkedLists/Node.h
+
+/Users/juani/Desktop/LinkedLists/Node.h
+iostream
+-
+
+/Users/juani/Desktop/LinkedLists/SimpleNode.h
+
+/Users/juani/Desktop/LinkedLists/algorithms.h
+iostream
+-
+SimpleNode.h
+/Users/juani/Desktop/LinkedLists/SimpleNode.h
+List.h
+/Users/juani/Desktop/LinkedLists/List.h
+
+/Users/juani/Desktop/LinkedLists/main.cpp
+iostream
+-
+List.h
+/Users/juani/Desktop/LinkedLists/List.h
+SimpleNode.h
+/Users/juani/Desktop/LinkedLists/SimpleNode.h
+algorithms.h
+/Users/juani/Desktop/LinkedLists/algorithms.h
+
